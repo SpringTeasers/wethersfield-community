@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Wethersfield, Connecticut — community site">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E7EFEB"/>
+      <stop offset="1" stop-color="#CFE0D8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#C9A227"/>
+  <circle cx="1010" cy="140" r="66" fill="#C9A227" opacity=".5"/>
+
+  <!-- stylised town skyline -->
+  <path d="M0 470 L120 470 L120 350 L200 300 L280 350 L280 470 L420 470 L420 380 L520 380 L520 470 L700 470 L700 330 L760 330 L760 380 L900 380 L900 470 L1200 470 L1200 630 L0 630 Z"
+        fill="#1F4A3F" opacity=".86"/>
+  <rect x="470" y="400" width="70" height="70" fill="#A8412C" opacity=".85"/>
+  <rect x="620" y="420" width="46" height="50" fill="#C9A227" opacity=".9"/>
+  <rect x="820" y="400" width="60" height="70" fill="#A8412C" opacity=".7"/>
+
+  <text x="80" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="600" fill="#1F4A3F">Wethersfield</text>
+  <text x="82" y="256" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#A8412C" letter-spacing="6">CONNECTICUT</text>
+  <text x="82" y="320" font-family="Helvetica, Arial, sans-serif" font-size="27" fill="#5A6462">History · Things to Do · Local Businesses · Town Services</text>
+</svg>
