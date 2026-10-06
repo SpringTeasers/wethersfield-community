@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Wethersfield">
+  <rect width="64" height="64" rx="12" fill="#1F4A3F"/>
+  <path d="M10 44 L10 26 L20 18 L30 26 L30 44 Z" fill="#E7EFEB" opacity=".55"/>
+  <path d="M34 44 L34 22 L44 14 L54 22 L54 44 Z" fill="#C9A227" opacity=".8"/>
+  <rect x="10" y="47" width="44" height="4" rx="2" fill="#A8412C"/>
+</svg>
